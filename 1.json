@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;8e05518d8864102c8561a0064540783f",
+  "spider": "./custom_spider.jar;md5;d2e4b7c7762bc633d9cb3dc681468271",
   "sites": [
     {
       "key": "dyxs_test",
