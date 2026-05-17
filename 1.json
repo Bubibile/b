@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;167db6aa7dae823e1b2e7a79c708ff2b",
+  "spider": "https://raw.githubusercontent.com/Bubibile/b/refs/heads/main/custom_spider.jar;md5;167db6aa7dae823e1b2e7a79c708ff2b",
   "sites": [
     {
       "key": "dyxs_test",
